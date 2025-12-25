@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Models (Too large for GitHub)
+data/
+datasets/
+images/
+archive (2).zip
+*.h5
+*.pth
+*.pkl
+
+# Operating system files
+.DS_Store
+Thumbs.db

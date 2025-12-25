@@ -1,0 +1,22 @@
+# Core Deep Learning
+tensorflow>=2.15.0
+keras>=3.0
+
+# Data Manipulation & Math
+numpy
+pandas
+scikit-learn
+
+# Image Processing
+opencv-python
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Connectivity
+ipykernel
+
+# pip install -r requirements.txt
+# pip freeze > requirements.txt
