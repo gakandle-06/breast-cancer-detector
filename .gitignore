@@ -16,6 +16,7 @@ __pycache__/
 data/
 datasets/
 images/
+cenasnadahaver/
 archive (2).zip
 *.h5
 *.pth
